@@ -58,6 +58,29 @@
       "total": 1
     }
   },
+  "deviceRoutes": {
+    "data": [
+      {
+        "id": "8fcf9de6-654c-4b42-a1ad-d81ca2cba731",
+        "name": "Simple route name",
+        "routeKey": 666,
+        "distance": 250.23,
+        "defaultSpeed": 12.50,
+        "timeConsumption": 20,
+        "favorited": false,
+        "data": [
+          { "lat": 51.90565361, "long": 21.05513008 },
+          { "lat": 51.90565561, "long": 21.05513285 }
+        ],
+        "createdAt": "2005-08-15T15:52:01+00:00",
+        "updatedAt": "2005-08-15T15:52:01+00:00"
+      }    ],
+    "extra": {
+      "perPage": 10,
+      "page": 1,
+      "total": 1
+    }
+  },
   "profile": {
     "name": "typicode"
   }
