@@ -20,6 +20,44 @@
       "total": 1
     }
   },
+  "devices": {
+    "data": [
+      {
+        "id": "a3a671ba-4b49-43cc-b6e0-84c1ca63b79e",
+        "serialNumber": "SN001",
+        "owner": { "id": "7818492a-ea99-4014-9fb3-db81d28d1d48", "email": "client1@example.org", "fullName": "John Client" },
+        "lastStatus": "AUTO_DRIVE_GOING",
+        "autoDrivingTime": 3460,
+        "machine": {
+          "id": "2cc57e19-82cd-440c-9269-671d447eac2f",
+          "ssid": "UniqueSsid",
+          "type": {
+            "id": "0134f455-c4f1-409d-82cb-c6a46a3bb43a",
+            "name": "sprayer"
+          },
+          "createdAt": "2005-08-15T15:52:01+00:00",
+          "lastConnectionAt": "2005-08-15T15:52:01+00:00"
+        },
+        "userAssignments": [
+          {
+            "user": { "id": "64ae3f8d-870b-4fd9-89af-5db4ae75e2c0", "email": "client2@example.org", "fullName": "John Client" },
+            "role": "admin",
+            "createdAt": "2005-08-15T15:52:01+00:00",
+            "createdBy": { "id": "8fcf9de6-654c-4b42-a1ad-a81ca2cba731", "email": "admin@example.org", "fullName": "John Random" }
+          }
+        ],
+        "createdAt": "2005-08-15T15:52:01+00:00",
+        "createdBy": { "id": "8fcf9de6-654c-4b42-a1ad-a81ca2cba731", "email": "admin@example.org", "fullName": "John Random" },
+        "updatedAt": "2005-08-15T15:52:01+00:00",
+        "updatedBy": { "id": "8fcf9de6-654c-4b42-a1ad-a81ca2cba731", "email": "admin@example.org", "fullName": "John Random" }
+      }
+    ],
+    "extra": {
+      "perPage": 10,
+      "page": 1,
+      "total": 1
+    }
+  },
   "profile": {
     "name": "typicode"
   }
