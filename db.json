@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "6aa61c26-c616-4d6f-99a6-57199a050d55",
+      "email": "john@example.com",
+      "fullName": "John Example",
+      "phoneNumber": "+48 500 200 300",
+      "status": "active",
+      "language": "pl",
+      "role": {
+        "id": "41dcce46-980a-450e-b355-eac0e9c94519",
+        "name": "employee"
+      }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
